@@ -10,7 +10,7 @@ graphs/IGraph.java
  graphs.IGraph
 trees/RunTree.java
  trees.RunTree
-graphs/RunGraph.java
- graphs.RunGraph
 graphs/GraphAdjList.java
  graphs.GraphAdjList
+graphs/RunGraph.java
+ graphs.RunGraph
