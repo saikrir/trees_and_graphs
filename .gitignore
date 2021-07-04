@@ -1,7 +1,8 @@
- .classpath
- .project
- .idea/
- .settings/
- .vscode/
- bin/
- build/
+.classpath
+.project
+.idea/
+.settings/
+.vscode/
+bin/
+build/
+.gradle
